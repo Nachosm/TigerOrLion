@@ -54,16 +54,16 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void init(){
-        img1 = findViewById(R.id.img1);
-        img2 = findViewById(R.id.img2);
-        img3 = findViewById(R.id.img3);
-        img4 = findViewById(R.id.img4);
-        img5 = findViewById(R.id.img5);
-        img6 = findViewById(R.id.img6);
-        img7 = findViewById(R.id.img7);
-        img8 = findViewById(R.id.img8);
-        img9 = findViewById(R.id.img9);
-
-    }
+//    private void init(){
+//        img1 = findViewById(R.id.img1);
+//        img2 = findViewById(R.id.img2);
+//        img3 = findViewById(R.id.img3);
+//        img4 = findViewById(R.id.img4);
+//        img5 = findViewById(R.id.img5);
+//        img6 = findViewById(R.id.img6);
+//        img7 = findViewById(R.id.img7);
+//        img8 = findViewById(R.id.img8);
+//        img9 = findViewById(R.id.img9);
+//
+//    }
 }
